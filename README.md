@@ -1,6 +1,15 @@
-- 👋 Hi, I’m Manuel Contreras. Mechatronic engineer focus in robotic and automation.
+# Hi, my name is Manuel Contreras 👋 
 
-<!---
-Mecb1407/Mecb1407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Developed in ROS and industrial automation
+
+#### I'm a professional in mechatronics engineering and passionate about robotics. Four years ago, I have been working with the ROS robotics operating system focused on mobile robots and manipulators. I currently work as a development and innovation engineer at Automate Colombia.
+
+## Tecnologies
+- C++
+- Python
+- C#
+- Rviz
+- Gazebo
+- Matlab
+- MongoDB
+
