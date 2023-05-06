@@ -12,4 +12,6 @@ I'm a professional in mechatronics engineering and passionate about robotics. Fi
 - Gazebo
 - Matlab
 - MongoDB
+- SQL
+- QT
 
